@@ -1,0 +1,12 @@
+{
+  "model": "paraphrase-multilingual-MiniLM-L12-v2",
+  "mode": "knn",
+  "knn_k": 10,
+  "t_min": 0.2,
+  "t_max": 1.2,
+  "gamma": 1.0,
+  "epsilon": 0.2,
+  "lambda": 0.69,
+  "epsilon_star": 0.20,
+  "lambda_star": 0.69
+}
